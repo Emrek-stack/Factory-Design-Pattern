@@ -1,0 +1,5 @@
+E:\code\factoryDesignPattern\factoryDesignPattern\obj\Debug\factoryDesignPattern.csprojResolveAssemblyReference.cache
+E:\code\factoryDesignPattern\factoryDesignPattern\bin\Debug\factoryDesignPattern.exe
+E:\code\factoryDesignPattern\factoryDesignPattern\bin\Debug\factoryDesignPattern.pdb
+E:\code\factoryDesignPattern\factoryDesignPattern\obj\Debug\factoryDesignPattern.exe
+E:\code\factoryDesignPattern\factoryDesignPattern\obj\Debug\factoryDesignPattern.pdb
